@@ -1,0 +1,16 @@
+{
+    "const_ez_win": 0,
+    "const_med_win": 2,
+    "const_hard_win": 0,
+    "const_vs_player_X": 0,
+    "const_vs_player_O": 0,
+    "const_ez_lose": 0,
+    "const_med_lose": 0,
+    "const_hard_lose": 0,
+    "const_ez_draw": 0.0,
+    "const_med_draw": 0.0,
+    "const_hard_draw": 0.5,
+    "const_vs_player_draw": 0,
+    "game_launch": 0,
+    "dayornight": 0
+}
